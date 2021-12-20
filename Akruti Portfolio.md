@@ -11,17 +11,19 @@
 help them with my knowledge. 
 - Provided support for productions issues and have resolved before deadlines. 
 ## Certification
-	2020 Complete Python Bootcamp by Udemy (09/2020 - Present)
-
-	Learning Python by Linkedin (06/2020 - Present) 
-
-	Python for beginner’s – Learn Python Programming (06/2020 - Present)
-
-	Completed Foundation Level of Online Degree course of Data Science with Python course from IIT Madras. 
+- 2020 Complete Python Bootcamp by Udemy (09/2020 - Present)
+-	Learning Python by Linkedin (06/2020 - Present) 
+-	Python for beginner’s – Learn Python Programming (06/2020 - Present)
+- Completed Foundation Level of Online Degree course of Data Science with Python course from IIT Madras. 
 ## Hobbies
 - I have keen interest towards drawing and practicing new art forms. 
 - Currently building my skill in Resin art form. Here are some photos of my work till date.
-![Resin Clock](https://photos.google.com/u/1/photo/AF1QipMnPAyXiT9ZFrs2toE36SX1480EvWkPEEpopBX6)
+
+![](/images/IMG_20210425_155804.jpg)
+![](/images/IMG_20210516_170024.jpg)
+![](/images/IMG_20211002_120638.jpg)
+
+
 
 
 
