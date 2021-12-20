@@ -22,7 +22,10 @@ help them with my knowledge.
 ![](/images/IMG_20210425_155804.jpg)
 ![](/images/IMG_20210516_170024.jpg)
 ![](/images/IMG_20211002_120638.jpg)
-
+- For more photos of my artwork do have a look at my Instagram Page ***akruti_ki_kalakruti*** 
+## Social Media
+- [Linkedin](https://www.linkedin.com/in/akruti-joshi-487863157/)
+- [Instagram](https://www.instagram.com/akruti_ki_kalakruti/)
 
 
 
